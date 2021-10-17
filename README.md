@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=I'm%20Jeong%20Min&fontSize=100)
 
 <div align="center">
-  :wave:Hi there:wave:
+  <h3>:wave:Hi there:wave:</h3>
   
   
   <h2>:wrench:Technology Stack:hammer:</h2>
