@@ -1,16 +1,11 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=PetMily&fontSize=90)
 
-<!--
-**jeongminie/jeongminie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![JAVA](https://img.shields.io/badge/JAVA-FA5858?style=flat-square&logo=Java&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-FAAC58?style=flat-square&logo=HTML5&logoColor=black)
+![JQUERY](https://img.shields.io/badge/JQUERY-F4FA58?style=flat-square&logo=JQUERY&logoColor=black)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-58FA58?style=flat-square&logo=JAVASCRIPT&logoColor=black)
+![CSS3](https://img.shields.io/badge/CSS3-58ACFA?style=flat-square&logo=CSS3&logoColor=black)
+![SPRING](https://img.shields.io/badge/SPRING-5858FA?style=flat-square&logo=SPRING&logoColor=black)
+![ECLIPSE](https://img.shields.io/badge/ECLIPSE-D358F7?style=flat-square&logo=ECLIPSE&logoColor=black)
+![MYSQL](https://img.shields.io/badge/MYSQL-FA58D0?style=flat-square&logo=MYSQL&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FA5882?style=flat-square&logo=AmazonAWS&logoColor=black)
